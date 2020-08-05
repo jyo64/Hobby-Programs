@@ -12,34 +12,3 @@ else :
     rest = sum(l[:modi+1])
     res = int(rest  +  starter) % 10
 print(res)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
